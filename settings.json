@@ -8,7 +8,7 @@
   "server": {
     "ip": "astron-smp.aternos.me:26372",
     "port": 26372,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
